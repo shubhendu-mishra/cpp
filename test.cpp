@@ -59,9 +59,6 @@ int main()
     fast_cin();
     ll t;
     cin >> t;
-    for(int it=1;it<=t;it++) {
-     cout << "Case #" << it+1 << ": ";
-        solve();
-    }
+    cout << "Wow this is fun";
     return 0;
 }
